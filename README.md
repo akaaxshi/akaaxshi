@@ -11,6 +11,8 @@
   </a>
 </p>
 <h2>*ABOUT ME* 🔗</h2>
+<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="170"/>
+</p>
 
 <table>
   <tr>
@@ -25,10 +27,6 @@
 
       🚀 Goal: Software Engineer / Data Analyst<br>
       🌱 Learning: Java, DSA, Data Analytics
-    </td>
-
-    <td valign="top">
-      <img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="170"/>
     </td>
   </tr>
 </table>
