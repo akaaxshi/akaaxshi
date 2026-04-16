@@ -29,14 +29,12 @@
 </p>
   </tr>
 </table>
+<p align="right"><<img src="https://i.pinimg.com/1200x/72/bb/2d/72bb2d02bd2e3eff246bb47d25df7f23.jpg" width="200"/>
+</p>
 
-<h2>📈 *GITHUB STATS*</h2>
+<h2>*GITHUB STATS*📈 </h2>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" /> </p>
 <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800" />
 </p>
-
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/your-gif-link/giphy.gif" width="200"/>
 </p>
 
