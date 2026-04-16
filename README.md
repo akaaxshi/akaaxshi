@@ -10,21 +10,28 @@
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
-<h2>*ABOUT ME*🔗</h2>
-<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="150"/>
-  
-  Hello There! I'm <b>Arpita</b> aka <b>akaaxshi</b>, a passionate developer. <br><br>
+<h2>*ABOUT ME* 🔗</h2>
 
-  💻 I enjoy solving problems and building projects using modern technologies. <br>
-  📚 Currently exploring <b>Data Structures, Algorithms, and Web Development</b>. <br><br>
+<table>
+  <tr>
+    <td valign="top">
+      <b>Hello There! I'm Arpita aka akaaxshi 👋</b><br><br>
 
-  🔥 Solving problems keeps me distracted. <br>
-  🎮 Fun fact: ADHD makes me a multitasker. <br><br>
+      💻 I enjoy solving problems and building projects using modern technologies.<br>
+      📚 Currently exploring <b>Data Structures, Algorithms, and Web Development</b>.<br><br>
 
-  🚀 Goal: To become a skilled Software Engineer / Data Analyst <br>
-  🌱 Currently learning: Java, DSA, and Data Analytics
-</p>
-</p>
+      🔥 Solving problems keeps me distracted.<br>
+      🎮 Fun fact: ADHD makes me a multitasker.<br><br>
+
+      🚀 Goal: Software Engineer / Data Analyst<br>
+      🌱 Learning: Java, DSA, Data Analytics
+    </td>
+
+    <td valign="top">
+      <img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="170"/>
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" /> </p>
 <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800" />
