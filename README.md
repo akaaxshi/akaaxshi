@@ -19,15 +19,14 @@
     <td valign="top">
       <b>Hello There! I'm Arpita aka akaaxshi 👋</b><br><br>
 
-      💻 I enjoy solving problems and building projects using modern technologies.<br>
-      📚 Currently exploring <b>Data Structures, Algorithms, and Web Development</b>.<br><br>
+      💻 I enjoy solving problems and building projects using modern technologies.
+      📚 Currently exploring <b>Data Structures, Algorithms, and Web Development
 
-      🔥 Solving problems keeps me distracted.<br>
-      🎮 Fun fact: ADHD makes me a multitasker.<br><br>
+      🔥 Solving problems keeps me distracted.
+      🎮 Fun fact: ADHD makes me a multitasker.
 
-      🚀 Goal: Software Engineer / Data Analyst<br>
-      🌱 Learning: Java, DSA, Data Analytics
-    </td>
+      🚀 Goal: Software Engineer / Data Analyst
+      🌱 Learning: Java, DSA, Data Analytics, Python, Machine Learning
   </tr>
 </table>
 
