@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://your-image-link.com/image.png" width="600"/>
+</p>
+
+
 Hello There! I'm Arpita aka akaaxshi, a passionate developer.
 
 I enjoy solving problems and building projects using modern technologies.
