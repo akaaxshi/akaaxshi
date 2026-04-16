@@ -25,7 +25,7 @@
 
       🚀 Goal: Software Engineer / Data Analyst
       🌱 Learning: Java, DSA, Data Analytics, Python, Machine Learning
-<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="220"/>
+<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="170"/>
 </p>
   </tr>
 </table>
