@@ -12,7 +12,7 @@
 </p>
 <h2>*ABOUT ME* 🔗</h2>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <b>Hello There! I'm Arpita aka akaaxshi!!</b><br><br>
@@ -25,12 +25,11 @@
 
       🚀 Goal: Software Engineer / Data Analyst
       🌱 Learning: Java, DSA, Data Analytics, Python, Machine Learning
-  </tr>
-</table>
 <p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="220"/>
 </p>
-<p align="right"><<img src="https://i.pinimg.com/1200x/72/bb/2d/72bb2d02bd2e3eff246bb47d25df7f23.jpg" width="200"/>
-</p>
+  </tr>
+</table>
+
 
 <h2>*GITHUB STATS*📈 </h2>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" /> </p>
