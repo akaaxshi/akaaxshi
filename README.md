@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1a/97/e5/1a97e5e71b485ad933b2799805053681.gif" width="900"/>
+  <img src="https://i.pinimg.com/originals/1a/97/e5/1a97e5e71b485ad933b2799805053681.gif" width="1000"/>
   <a href="https://www.linkedin.com/in/arpita-mukherjee-8b03b5340/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
