@@ -11,7 +11,7 @@
   </a>
 </p>
 <h2>*ABOUT ME*🔗</h2>
-<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="200"/>
+<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="150"/>
   
   Hello There! I'm <b>Arpita</b> aka <b>akaaxshi</b>, a passionate developer. <br><br>
 
