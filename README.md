@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/image.png" width="600"/>
+  <img src="https://i.pinimg.com/originals/3a/70/1f/3a701f8d6a7d0c4d34e068f7e9c24f83.jpg" width="600"/>
 </p>
 
 
