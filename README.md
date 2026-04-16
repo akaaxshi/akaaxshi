@@ -11,13 +11,13 @@
   </a>
 </p>
 <h2>*ABOUT ME* 🔗</h2>
-<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="170"/>
+<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="200"/>
 </p>
 
 <table>
   <tr>
     <td valign="top">
-      <b>Hello There! I'm Arpita aka akaaxshi 👋</b><br><br>
+      <b>Hello There! I'm Arpita aka akaaxshi!!</b><br><br>
 
       💻 I enjoy solving problems and building projects using modern technologies.
       📚 Currently exploring <b>Data Structures, Algorithms, and Web Development
