@@ -8,8 +8,7 @@ Currently exploring Data Structures, Algorithms, and Web Development.
 
 🎮 Fun fact: ADHD makes me a multitasker
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" /> </p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800" />
-<p align="center">
+<p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800" />
   <a href="https://www.linkedin.com/in/arpita-mukherjee-8b03b5340/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
