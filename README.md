@@ -11,11 +11,11 @@
   </a>
 </p>
 <h2>*ABOUT ME*🔗</h2>
+<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="200"/>
+</p>
 Hello There! I'm Arpita aka akaaxshi, a passionate developer.
 I enjoy solving problems and building projects using modern technologies.
 Currently exploring Data Structures, Algorithms, and Web Development.
-<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="200"/>
-</p>
 
 
 🔥Solving problems keeps me distracted.
