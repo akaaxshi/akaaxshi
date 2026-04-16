@@ -12,7 +12,7 @@
 </p>
 <h2>*ABOUT ME*🔗</h2>
 Hello There! I'm Arpita aka akaaxshi, a passionate developer.
-<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg"/>
+<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="200"/>
 </p>
 
 I enjoy solving problems and building projects using modern technologies.
