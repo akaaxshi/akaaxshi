@@ -32,7 +32,7 @@
 
 
 <h2>*GITHUB STATS*📈 </h2>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" /> </p>
 <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800" />
 </p>
 </p>
