@@ -42,6 +42,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800"/>
 </p>
+
+<h2></h2>
 <p align="center"> <img src="https://i.pinimg.com/1200x/12/af/78/12af78e13de9c05585894b4c2a2c9eba.jpg" width="1000"/>
 </p>
 
