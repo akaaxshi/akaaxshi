@@ -36,7 +36,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" width="500">
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 </p>
 
 <h2></h2>
-<p align="center"> <img src="https://i.pinimg.com/1200x/12/af/78/12af78e13de9c05585894b4c2a2c9eba.jpg" width="1000"/>
+<p align="center"> <img src="https://i.pinimg.com/1200x/12/af/78/12af78e13de9c05585894b4c2a2c9eba.jpg" height="400" width="1000"/>
 </p>
 
 <h2>✦ SKILL RADAR 🕸️</h2>
