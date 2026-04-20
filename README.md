@@ -42,20 +42,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800"/>
 </p>
-
-<h2>✦ TECH STACK 🛠️</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-<p align="center"> <img src="https://i.pinimg.com/1200x/12/af/78/12af78e13de9c05585894b4c2a2c9eba.jpg"/>
+<p align="center"> <img src="https://i.pinimg.com/1200x/12/af/78/12af78e13de9c05585894b4c2a2c9eba.jpg" width="900"/>
 </p>
 
 <h2>✦ SKILL RADAR 🕸️</h2>
