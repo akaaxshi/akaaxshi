@@ -39,7 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark"/>
 </p>
 
-<p align="centre">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800"/>
 </p>
 
