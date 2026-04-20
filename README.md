@@ -34,7 +34,7 @@
 <h2>*GITHUB STATS*📈 </h2>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" /> </p>
 <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800" />
-  <p align="right"> <img src="https://github-profile-trophy.vercel.app/?username=akaaxshi&theme=radical&no-frame=true&margin-w=15"/>
 </p>
+<p align="left"> < a href="![Skills](https://github-widgetbox.vercel.app/api/skills?languages=python,js,cpp,java&theme=nautilus)">
 </p>
 
