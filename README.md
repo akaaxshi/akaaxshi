@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/1a/97/e5/1a97e5e71b485ad933b2799805053681.gif" width="1000"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/arpita-mukherjee-8b03b5340/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -10,33 +13,46 @@
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
-<h2>*ABOUT ME* 🔗</h2>
 
+<h2>✦ ABOUT ME 🔗</h2>
 <table align="center">
   <tr>
     <td valign="top">
       <b>Hello There! I'm Arpita aka akaaxshi!!</b><br><br>
-
-      💻 I enjoy solving problems and building projects using modern technologies.
-      📚 Currently exploring <b>Data Structures, Algorithms, and Web Development
-
-      🔥 Solving problems keeps me distracted.
-      🎮 Fun fact: ADHD makes me a multitasker.
-
-      🚀 Goal: Software Engineer / Data Analyst
-      🌱 Learning: Java, DSA, Data Analytics, Python, Machine Learning
-<p align="right"><img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="170"/>
-</p>
+      💻 I enjoy solving problems and building projects using modern technologies.<br>
+      📚 Currently exploring <b>Data Structures, Algorithms, and Web Development</b><br>
+      🔥 Solving problems keeps me distracted.<br>
+      🎮 Fun fact: ADHD makes me a multitasker.<br>
+      🚀 Goal: Software Engineer / Data Analyst<br>
+      🌱 Learning: Java, DSA, Data Analytics, Python, Machine Learning<br>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/736x/c4/ce/18/c4ce18c80cbebc4988862d34f4d6d20c.jpg" width="170"/>
+    </td>
   </tr>
 </table>
 
+<h2>✦ GITHUB STATS 📈</h2>
 
-<h2>*GITHUB STATS*📈 </h2>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark" /> </p>
-<p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800" />
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=akaaxshi&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaaxshi&theme=dark"/>
 </p>
-[![Tech Stack](https://github-widgetbox.vercel.app/api/skills?languages=python,js,ts,java,c&tools=figma&frameworks=react,node&theme=radical)](https://github.com/Jurredr/github-widgetbox)
 
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800"/>
+</p>
+
+<h2>✦ TECH STACK 🛠️</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
