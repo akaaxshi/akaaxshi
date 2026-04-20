@@ -44,7 +44,7 @@
 </p>
 
 <h2></h2>
-<p align="center"> <img src="https://i.pinimg.com/1200x/12/af/78/12af78e13de9c05585894b4c2a2c9eba.jpg" height="400" width="1000"/>
+<p align="center"> <img src="https://i.pinimg.com/1200x/12/af/78/12af78e13de9c05585894b4c2a2c9eba.jpg" height="200" width="1000"/>
 </p>
 
 <h2>✦ SKILL RADAR 🕸️</h2>
