@@ -42,11 +42,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaaxshi&theme=react-dark" width="800"/>
 </p>
-
-<h2></h2>
-<p align="center"> <img src="https://i.pinimg.com/736x/e7/86/02/e78602c65c8aa358498db46c2818bd59.jpg" height="250" width="1000"/>
-</p>
-
 <h2>✦ SKILL RADAR 🕸️</h2>
 
 <p align="center">
