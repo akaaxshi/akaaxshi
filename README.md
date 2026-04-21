@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arpita-mukherjee-8b03b5340/">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/>
+  </a>
+    <a href="https://www.linkedin.com/in/arpita-mukherjee-8b03b5340/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/settings/profile/">
